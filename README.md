@@ -4,7 +4,7 @@ I'm Kamil. I am iOS Engineer, specializing in modern Swift ecosystem.
 
 I value clean modular architectures, deterministic testing, great mobile-oriented design, and flawless on-device performance.
 
-### 🏗️ Code Showcases
+### Code Showcases
 
 Here are examples of my recent personal projects:
 

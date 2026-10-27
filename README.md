@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kamil. I am iOS Engineer, specializing in modern Swift ecosystem.
+I'm Kamil. I am an iOS engineer, specializing in the modern Swift ecosystem.
 
 I value clean modular architectures, deterministic testing, great mobile-oriented design, and flawless on-device performance.
 
@@ -20,5 +20,5 @@ Here are examples of my recent personal projects:
 
 * **[UIKit Catalog (Programmatic)](https://github.com/kamilgomolka/apple-ui-catalog-uikit-code)**  
   A comprehensive showcase of UIKit components built entirely in code (no Storyboards/XIBs).  
-  * **Tech:** UIKit, UICollectionViewCompositionalLayout.
+  * **Tech:** UIKit, UITableView, UICollectionView, UICollectionViewCompositionalLayout.
   * **Patterns:** Diffable Data Sources, Dynamic Type, Sheet Detents.

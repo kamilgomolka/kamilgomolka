@@ -14,12 +14,11 @@ Here are examples of my recent personal projects:
   * **Patterns:** Single-writer actor store, transactional Atomic Outbox, idempotent network retries, and isolated SPM micro-modules.
 
 * **[Seafood Recipes](https://github.com/kamilgomolka/demo-seafood-recipes)**  
-  A focused deep-dive into modern Swift Concurrency and deterministic testing.  
+  A focused deep-dive into modern Swift Concurrency.  
   * **Tech:** Swift 6, Swift Testing.
   * **Patterns:** Custom actor executors, cooperative task cancellation, nonisolated async functions, and robust state machines.
 
 * **[UIKit Catalog (Programmatic)](https://github.com/kamilgomolka/apple-ui-catalog-uikit-code)**  
-  A comprehensive showcase of modern UIKit interfaces built entirely in code (no Storyboards/XIBs).  
+  A comprehensive showcase of UIKit components built entirely in code (no Storyboards/XIBs).  
   * **Tech:** UIKit, UICollectionViewCompositionalLayout.
-  * **Patterns:** Diffable Data Sources, Dynamic Type, Sheet Detents, and strict memory safety.
-unicode emojis
+  * **Patterns:** Diffable Data Sources, Dynamic Type, Sheet Detents.
